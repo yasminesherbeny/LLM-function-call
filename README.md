@@ -1,6 +1,6 @@
 # LLM Function Calling Demo
 
-A lightweight local Python project demonstrating how to implement secure, validated tool (function) calling with Large Language Models (LLMs) like Llama 3.1. 
+A lightweight local Python project demonstrating how to implement secure, validated tool (function) calling with Large Language Models (LLMs) like llama3.2:3b. 
 
 The project supports both an offline **Mock LLM mode** for rapid development/testing and a **Live Ollama mode** for real local model execution. It enforces data validity via Pydantic and protects the backend via input sanitization.
 
